@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tic Tac Toe Game</string>
+    <string name="welcome_text">Welcome to Tic Tac Toe Game</string>
+    <string name="player_1_score_text">Player-1 Score</string>
+    <string name="player_2_score_text">Player-2 Score</string>
+    <string name="player_1_score_value">0</string>
+    <string name="player_2_score_value">0</string>
+    <string name="Content_description_text">Null</string>
+    <string name="Reset_button_text">Reset Game</string>
+    <string name="Play_again_button_text">Play Again</string>
+    <string name="Status_text">Status</string>
+</resources>
